@@ -1,0 +1,15 @@
+📅 DAY 2 — Digit logic mastery
+
+1.Sum of digits
+2.Reverse a number
+3.Palindrome number
+4.Largest digit in number
+5.Smallest digit in number
+6.Count digits in number
+7.Armstrong number
+8.Product of digits
+9.Remove last digit & return remaining
+10.Check if number contains digit 7
+
+🎯 Goal:
+Full control over n % 10 and n / 10.

@@ -1,0 +1,10 @@
+📅 DAY 3 — Loop power
+1.Print 1 → N (while loop)
+2.Print N → 1 (for loop)
+3.Print even numbers till N
+4.Print odd numbers till N
+5.Power a^b without Math.pow
+
+🎯 Goal:
+Loops should feel natural like breathing.
+
