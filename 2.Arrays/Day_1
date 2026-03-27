@@ -1,0 +1,22 @@
+⚔️ LEVEL 1 — Core Basics (No thinking excuses)
+1. Print all elements of an array using a loop.
+2. Find the sum of all elements in an array.
+3. Find the maximum element in an array.
+4. Find the minimum element in an array.
+5. Count how many even numbers are in the array.
+
+⚔️ LEVEL 2 — Slight Brain Activation
+
+6. Reverse an array (without using extra array).
+7. Check if a number exists in the array (linear search).
+8. Find the second largest element.
+9. Swap first and last element of the array.
+10. Count occurrences of a given number.
+
+⚔️ LEVEL 3 — Now we test REAL understanding
+
+11. Check if array is sorted (ascending).
+12. Move all zeros to the end of array.
+13. Remove duplicates from a sorted array.
+14. Find the missing number from array (1 to n).
+15. Rotate array by 1 position (right rotation).
